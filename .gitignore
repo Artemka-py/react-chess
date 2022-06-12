@@ -19,4 +19,5 @@ node_modules/
 dist/
 .cache/
 .idea/
+.idea
 package-lock.json
